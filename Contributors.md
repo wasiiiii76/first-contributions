@@ -1,7 +1,7 @@
 # Contributors
 -Hey, I'm Jitesh Pathak. Check me out on [Github](https://github.com/jiteshpathak)
 -Hi, I am Thang. This is my first contibution to an open source project.
--Hey I am Harshvardhan Jha . I am new programmer learning to code .
+-Hey I am wasi khan. I am new programmer learning to code .
 -FuelTheburn
 -[Vijayan K S](https://github.com/ksvijayan06) **If you are reading this, Remember, I'll always Love You🫵. This contribution made for the Octoberfest 2024 event. If you want to join with for the Open Source Contribution follow me on github😘**
 - Hello World! I`m [Isaac Huang](https://github.com/isaac-tw) and this is my **first time contributing to another GitHub repository!**
@@ -87,7 +87,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - [Ananya S Kaligal]
 - Hi [Ocy-6]
 - Hey! My name is [Jay Calderon](https://github.com/cald0145) and I'm a student web developer from Canada 🇨🇦, I'm currently studying at Algonquin College. 👨🏽‍💻 **Check out my site and lets connect! [My Website](https://jaycalderon.ca), also here is my linkedin: [LinkedIn](https://www.linkedin.com/in/jaycaldev)!** 
-- Gregor was here!
+- Gregor wanhmsdvc
 - Hello guys, Matheus here aka otetis!
 - Hello to Open Source ! [Ambuj](https://github.com/ambujbaranwal)
 - Hello Open source World, myself Priya Singh!!
